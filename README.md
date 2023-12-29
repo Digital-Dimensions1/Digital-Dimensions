@@ -7,7 +7,7 @@ Software-engineer.
 I love code!!
 
 * 🌍  I'm based in EU.
-* ✉️  You can contact me at [alexandersimony@hotmail.com](mailto:alexandersimony@hotmail.com)
+* ✉️  You can contact me at [DigitalDimensions@outlook.dk](mailto:DigitalDimensions@outlook.dk)
 * 🧠  I'm learning Python, HTML & Javascript.
 * 🤝  I'm open to collaborating on other drone projects.
 * ⚡  We came with peace, we leave with peace.
